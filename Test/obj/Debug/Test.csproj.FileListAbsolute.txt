@@ -1,0 +1,10 @@
+C:\Users\Натали\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Натали\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\Натали\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\Натали\source\repos\Test\Test\bin\Debug\Devart.Data.dll
+C:\Users\Натали\source\repos\Test\Test\bin\Debug\Devart.Data.SQLite.dll
+C:\Users\Натали\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Натали\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Натали\source\repos\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Натали\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\Натали\source\repos\Test\Test\obj\Debug\Test.pdb
